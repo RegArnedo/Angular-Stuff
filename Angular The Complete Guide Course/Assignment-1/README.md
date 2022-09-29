@@ -1,4 +1,6 @@
-# MyFirstApp
+# Component Assignment
+
+Integrating Angular Component lessons to get familiar with the syntax.  Paid very specific attention to the difference between External File usage vs. Inline usage for the TEMPLATE and STYLE sections
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
